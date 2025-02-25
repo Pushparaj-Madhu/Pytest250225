@@ -1,0 +1,13 @@
+# install multiple packages at single command
+# Create Virtual Environment
+# Activate Virtual Environment
+# Install inside the Virtual Environment
+
+
+# Install Required Database Drivers
+    # import sqlite3          # Default SQLite
+    # import mysql.connector  # For MySQL
+    # import psycopg2         # For PostgreSQL
+# Storing sensitive information in environment variables
+    # python-dotenv     # Loads environment variables from .env
+# Error Handling and Logging

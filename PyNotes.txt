@@ -11,3 +11,6 @@
 # Storing sensitive information in environment variables
     # python-dotenv     # Loads environment variables from .env
 # Error Handling and Logging
+
+
+TESTING - SCRIPTS
